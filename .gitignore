@@ -1,0 +1,11 @@
+models/__pycache__
+models/tempCodeRunnerFile.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.sqlite3
+revised datasets/output.csv
+models/*.pyc
