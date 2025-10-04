@@ -111,8 +111,6 @@ Predicted movie revenue is categorized as:
 ---
 
 ## License
-
-This project is licensed under the **MIT License**.
-Copyright (c) 2025 Ayush Chaubey
+(c) 2025 Ayush Chaubey
 
 
