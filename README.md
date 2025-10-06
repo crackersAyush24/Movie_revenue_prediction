@@ -106,7 +106,7 @@ Predicted movie revenue is categorized as:
 ## Contact
 
 * GitHub: [crackersAyush24](https://github.com/crackersAyush24)
-* Email: [ayushchaubey@example.com](mailto:chaubeyayush04@gmail.com)
+* Email: [chaubeyayush04@gmail.com](mailto:chaubeyayush04@gmail.com)
 
 ---
 
